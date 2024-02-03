@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6847573.css",
-    "main.js": "/static/js/main.ccc907ff.js",
-    "static/media/samurai-champloo-wallpaper-whatspaper-1.jpg": "/static/media/samurai-champloo-wallpaper-whatspaper-1.267a8239f67d1ae35635.jpg",
-    "index.html": "/index.html",
-    "main.c6847573.css.map": "/static/css/main.c6847573.css.map",
-    "main.ccc907ff.js.map": "/static/js/main.ccc907ff.js.map"
+    "main.css": "/digital-clock/static/css/main.ff5fb596.css",
+    "main.js": "/digital-clock/static/js/main.ccc907ff.js",
+    "static/media/samurai-champloo-wallpaper-whatspaper-1.jpg": "/digital-clock/static/media/samurai-champloo-wallpaper-whatspaper-1.267a8239f67d1ae35635.jpg",
+    "index.html": "/digital-clock/index.html",
+    "main.ff5fb596.css.map": "/digital-clock/static/css/main.ff5fb596.css.map",
+    "main.ccc907ff.js.map": "/digital-clock/static/js/main.ccc907ff.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6847573.css",
+    "static/css/main.ff5fb596.css",
     "static/js/main.ccc907ff.js"
   ]
 }
